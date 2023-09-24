@@ -8,7 +8,7 @@
 <a href="https://instagram.com/furkan.14_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="furkan.14_" height="30" width="40" /></a>
 </p>
 
-<h2>I'm a Full Stack Developer, Competitive Programmer, and most importantly a Student!</h2>
+<h2>I'm a Full Stack Developer, Competitive Programmer</h2>
 
 - 🏦 I'm an Computer Science Engineering undergrad aspiring to become a skilled software developer.
 
